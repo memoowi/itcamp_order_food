@@ -1,6 +1,6 @@
-# This is a Console App Single Order Food using Dart
+# 😋 CONSOLE APP SINGLE FOOD ORDER 🍵
 
-<p align="center">ITCAMP - DART & FLUTTER CLASS - 2024</p>
+<p align="center">🧑🏽‍💻 ITCAMP - DART & FLUTTER CLASS - 2024 💻</p>
 
 ## Files
 
